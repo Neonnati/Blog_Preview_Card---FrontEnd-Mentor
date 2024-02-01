@@ -14,7 +14,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![my-desktop-solution](/Users/neonnati/Code/Frontend_Mentor/4. blog-preview-card-main/Screenshot 2024-02-01 at 12.07.09.png)
+![my-desktop-solution](/media/blog-preview-card-main/Screenshot 2024-02-01 at 12.07.09.png)
 
 
 ### Built with
